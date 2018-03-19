@@ -1,1 +1,4 @@
-When...
+When would you want to create a remote repository rather than keeping all your work local?
+
+  When your code is needed to be accessed from several computers.
+  When it's needed to be accessed from other contributers.
